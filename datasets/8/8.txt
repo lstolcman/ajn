@@ -1,0 +1,8 @@
+Korzystanie z interpretera Pythona na Windowsie sta³o siê w³aœnie nieco ³atwiejsze. Poza instalatorem Pythona, który mo¿na pobraæ samodzielnie, mo¿emy skorzystaæ tak¿e z wersji umieszczonej w Microsoft Store. 
+
+W grudniu w sklepie Microsoftu umieszczony zosta³ interpreter Pythona 3.7.2 wraz z tekstowym œrodowiskiem programistycznym IDLE. Oczywiœcie nic nie stoi na przeszkodzie, by uruchamiaæ interpreter z innym IDE. Z powodu ograniczeñ aplikacji umieszczanych w Microsoft Store, skrypty uruchomione z tym interpreterem nie bêd¹ mia³y pe³nego dostêpu do wspó³dzielonych folderów i rejestru. Instalacja aplikacji jest mo¿liwa na 64-bitowym Windowsie 10 (wersji 17763 lub nowszej) na desktopie.
+Python ju¿ jest, a co z innymi?
+
+Decyzja Fundacji rozwijaj¹cej Pythona jest nietypowa na tle zawartoœci Windows Store. W sklepie Microsoftu znajduje siê dzia³ poœwiêcony narzêdziom dla programistów, ale nie znajdziemy tam wielu popularnych IDE, interpreterów ani kompilatorów. Wiêkszoœæ sekcji zajmuj¹ aplikacje luŸno powi¹zane z tematem, jak klient SSH Terminus, a prawdopodobnie jedynym porz¹dnym IDE w tej kategorii jest Arduino IDE.
+
+Najdziwniejszy jest brak obecnoœci w tym gronie narzêdzi Microsoftu. Ze wzglêdu na ograniczenia sklepu zapewne niemo¿liwa jest dystrybucja tym kana³em Visual Studio, ale edytor Visual Studio Code, napisany z u¿yciem frameworka Electron, nie powinien byæ problemem. Slackowi siê ta sztuka siê uda³a, ale trudno powiedzieæ, czy obecnoœæ w Microsoft Store jest warta zachodu. 

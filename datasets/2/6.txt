@@ -1,0 +1,22 @@
+Niedawno na fejsika wrzuci³em radosne nowiny o tym, ¿e NASA wyrazi³o zgodê na u¿ywanie procesu “load and go” w przypadku lotów za³ogowych. To znaczy, ¿e SpaceX mo¿e wsadziæ astronautów do niezatankowanej rakiety, zatankowaæ z ludŸmi na pok³adzie i odpalaæ. Kilka osób poprosi³o o wyjaœnienie. Wiêc oto i ono…
+
+To co zaraz napiszê mo¿e wydaæ siê dziwne i mo¿e spodziewacie logicznego wyjaœnienia, ale muszê ostudziæ Wasze oczekiwania. NASA to rz¹dowa organizacja i cechuje j¹ pewna proceduralna ociê¿a³oœæ i bezw³adnoœæ. Do tego dochodz¹ sprzeczne interesy - taki Boeing i Lockheed Martin dostaj¹ sza³u widz¹c jak Elon Musk oœmiesza ich warte dziesi¹tki miliardów kontrakty wojskowe robi¹c to samo du¿o taniej i czêsto sensowniej. Tak wiêc ich lobbyœci czêsto staraj¹ siê utrudniæ ¿ycie SpaceX.
+
+Przechodz¹c do konkretów - pó³ wieku temu w NASA utar³o siê, ¿e astronautów ³aduje siê do rakiety po jej zatankowaniu. Tankowanie uchodzi za jeden z tych bardziej niebezpiecznych etapów startów kosmicznych. Nie bez powodu. Jedna z dwóch pora¿ek SpaceX (z 61 lotów Falconów 9) mia³a miejsce w³aœnie podczas tankowania. Dlatego w czasie lotów bezza³ogowych na platformie ma nikogo nie byæ. Nie zapominajmy, ¿e rakiety kosmiczne to takie bomby, które maj¹ eksplodowaæ w kontrolowany sposób i jest dziesiêæ tysiêcy sposobów na to, ¿eby ta eksplozja by³a niekontrolowana. Jednak¿e w przypadku lotów za³ogowych nie ma takiego komfortu i kiedy rakiety s¹ ju¿ gotowe do eksplozji, dooko³a krz¹taj¹ siê ludzie.
+
+Mo¿na by pomyœleæ, ¿e to nie takie g³upie, bo przynajmniej pozamykane s¹ wszystkie kurki i zawory, ale tak nie jest. Paliwo i utleniacz nale¿y utrzymywaæ w temperaturze rzêdu -200oC. Nawet tak du¿a masa ulega doœæ szybkiemu podgrzewaniu i gdyby zawrza³a mog³aby byæ jedn¹ z dziesiêciu tysiêcy przyczyn eksplozji. Dlatego rakiety takie jak Saturn V czy Atlas kombinowa³y z dolewaniem paliwa i cyrkulowaniem go tak, by zmniejszyæ ró¿nice temperatur w poszczególnych punktach rakiety. To znaczy, ¿e choæ g³ówne tankowanie zakoñczy³o siê wczeœniej, nie koñczy to majstrowania z paliwem przed samym lotem.
+
+Rozwi¹zanie SpaceX wygl¹da nastêpuj¹co - ³adujemy ba³wanki na czubek fallicznej bomby i szybciutko tankujemy j¹ sch³odzonym paliwem i utleniaczem w ostatniej chwili, pod kurek, tak ¿eby nie trzeba by³o niczego dolewaæ ani mieszaæ. Takie s¹ ich rozwi¹zania techniczne. Gdyby rakieta mia³a byæ zatankowana wczeœniej, musieliby nalaæ mniej paliwa o wy¿szej temperaturze by wygotowuj¹c siê nie rozerwa³o Falcona. To oczywiœcie oznacza³oby mniejsz¹ moc i mniejszy udŸwig.
+
+Mamy jednak happy-end. Po pewnym okresie marszczenia czo³a i cmokania ze strony NASA udzielono zgody na wariant launch and go. Co ciekawe, w 2014 roku dokonano testu awaryjnego systemu ucieczki, zamontowanego w za³ogowej kapsule Dragon 2. Jakiœ mi³y internauta na³o¿y³ nagranie z tego¿ testu na nagranie eksplozji Falcona 9 z 2016 roku. Wygl¹da na to, ¿e gdyby by³ to lot za³ogowy, astronauci prawdopodobnie uszliby z niego ca³o.
+
+
+Podoba Ci siê to co robiê? Wp³yñ na rozwój strony i zostañ patronem Wêglowego.
+
+ród³a:
+NASA signs off on SpaceX’s “load-and-go” procedure for crew launches
+“Steep hill” for SpaceX to convince NASA of load and go’s safety for crew
+Florydziak
+Te¿ Florydziak
+Rocket propellants
+The “super chill” reason SpaceX keeps aborting launches

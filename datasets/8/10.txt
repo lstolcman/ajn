@@ -1,0 +1,11 @@
+26 grudnia 2018 roku internet straci³ jednego ze swoich ojców. W wieku 81 lat odszed³ Larry Roberts, jeden z twórców ARPAnetu (prekursor internetu). Roberts nie by³ tak medialn¹ postaci¹, jak Tim Berners-Lee albo Vint Cerf, ale jego decyzje wp³ynê³y na to, jak dziœ zachowuj¹ siê kluczowe elementy internetu.
+
+Przygoda Robertsa z sieciami ³¹cz¹cymi komputery zaczê³a siê prawdopodobnie od artyku³u J.R.C. Licklidera o miêdzygalaktycznych sieciach komputerowych, który Roberts przeczyta³ w latach szeœædziesi¹tych dwudziestego wieku. Gdy Biuro Technik Przetwarzania Danych w ARPA (Agencja Zaawansowanych Projektów Badawczych w USA, obecnie DARPA) poszukiwa³o sposobu na po³¹czenie komputerów badawczych, w 1967 roku Robert Taylor wskaza³ Larry'ego Robertsa jako g³ównego architekta tej sieci. Oczywiœcie nie od razu uda³o siê uruchomiæ ARPAnet. Jednym z wa¿niejszych pomys³ów by³a sugestia Wesleya Clarka, by zarz¹dzanie sieci¹ zostawiæ ma³ym komputerom.
+
+Gdy ARPAnet ruszy³, by³ pierwszym projektem, który wprowadzi³ w ¿ycie rewolucyjn¹ ideê, która sta³a siê podstaw¹ komutacji pakietów – dzielenie danych na ma³e porcje (pakiety), które s¹ przesy³ane od nadawcy do odbiorcy niezale¿nie od siebie i mog¹ korzystaæ nawet z ró¿nych œcie¿ek miêdzy wêz³ami poœrednicz¹cymi. Pocz¹tkowo sieæ sk³ada³a siê z dwóch komputerów, póŸniej do³¹czone zosta³y kolejne dwa. W ARPA Roberts pracowa³ tak¿e z Bobem Kahnem i Vintem Cerfem, którzy kontynuowali jego pracê. 
+
+Roberts pracowa³ w ARPA do 1973 roku, ale wci¹¿ pozostawa³ wa¿n¹ postaci¹ w rozwoju internetu. Z pomoc¹ swojej prywatnej firmy Telenet popularyzowa³ komutacjê pakietów. W póŸniejszych latach tworzy³ projekty, które mia³y na celu poprawê dzia³ania komercyjnego internetu. Projekt Anagran na przyk³ad ulepsza³ sposoby przesy³ania wideo przez internet. W 2001 roku Roberts zosta³ uhonorowany Nagrod¹ Drapera za wk³ad w budowê internetu.
+
+Larry Roberts nie by³ aktywist¹ ani nie bra³ czynnego udzia³u w debatach o kszta³cie internetu, ale do dziœ w globalnej sieci znajduj¹ siê œlady jego decyzji i wiele z jego pomys³ów. 
+
+Jeœli ciekawi Was jego praca, polecam lekturê odzyskanego z kasety U-Matic (u¿ywana przed VHS) wyk³adu „The ARPANET and Computer Networks”, zarejestrowanego w 1986 roku. 

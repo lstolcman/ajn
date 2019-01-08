@@ -1,0 +1,44 @@
+Czy s¹ w Uk³adzie S³onecznym takie miejsca, ¿e si³a miêœni wystarczy³aby do osi¹gniêcia prêdkoœci ucieczki? Czy s¹ ksiê¿yce z których mo¿na by “zeskoczyæ” na planetê wokó³ której kr¹¿¹? Jak to policzyæ? Wiele notek na tym blogu powstaje dlatego, ¿e zada³em sobie jakieœ pytanie albo coœ mnie zaciekawi³o. To jedna z nich.
+
+Nie ja jeden siê nad tym zastanawia³em. W sieci jest sporo ró¿nych odpowiedzi, ale wiêkszoœæ z nich mnie nie satysfakcjonuje, bo dokonuje zbytnich moim zdaniem uproszczeñ lub podchodzi do zagadnienia w nieprzekonuj¹cy mnie sposób. Dlatego postanowi³em pokombinowaæ samemu. Jak zobaczycie (jeœli nie przeskoczycie Strasznych Wzorów), ja te¿ zabra³em siê do tego trochê od dupy strony i te¿ zdecydowa³em siê na pewne uproszczenia. Ale jedn¹ z metod uzyskania odpowiedzi w internecie jest nie zadanie pytania ale udzielenie z³ej odpowiedzi - wtedy niezawodnie ktoœ ciê poprawi. Zatem do dzie³a...
+
+
+Podejœcie
+
+Nie przekonuje mnie przek³adanie prêdkoœci biegu na Ziemi na inne cia³a niebieskie. Osi¹gi Usaina Bolta trudno prze³o¿yæ na sytuacjê, gdzie ka¿dy krok w jego biegu dzieli³yby d³ugie sekundy lub nawet minuty (gdy¿ “dryfowa³by” miêdzy kolejnymi krokami jak astronauci programu Apollo). Chcia³em skupiæ siê na sile z jak¹ mo¿e skoczyæ lekkoatleta lub przeciêtny cz³owiek, ale jak zwykle diabe³ tkwi w szczegó³ach i samo obliczenie si³y ludzkich nóg jest doœæ trudne.
+
+W koñcu jednak znalaz³em œwietny artyku³ opisuj¹cy fizykê skoku wzwy¿. Doskonale rozk³ada go na czynniki pierwsze, s¹ wykresy, wzory i mechanika kryj¹ca siê za ka¿dym etapem skoku. Ba, pod koniec autorzy nawet zastanawiaj¹ siê jak wysoko móg³by skoczyæ Michael Jordan, gdyby postawiæ go na Ksiê¿ycu. Ale nawet oni w tak drobiazgowym artykule w tym punkcie poszli troszkê na ³atwiznê. To jednak ich artyku³ sta³ siê fundamentem tej notki, wiêc jeœli nie straszne s¹ Wam proste ca³ki i trochê fizyki, to zapraszam do tekstu The Physics of the Vertical Jump.
+
+
+Straszne Wzory (mo¿na przeskoczyæ)
+
+Interesuje mnie prêdkoœæ skoku, któr¹ docelowo bêdziemy porównywaæ z prêdkoœci¹ ucieczki (pierwsz¹ prêdkoœci¹ kosmiczn¹ dla ró¿nych obiektów w Uk³adzie S³onecznym). Punktem wyjœcia by³y dla mnie dwa wzory z artyku³u: zwi¹zek maksymalnej wysokoœci skoku z prêdkoœci¹ pocz¹tkow¹ oraz zwi¹zek popêdu (fizycznego) z mas¹ i prêdkoœci¹. By z nich skorzystaæ poczyni³em za³o¿enie, ¿e skok trwa pó³ sekundy i zgoogla³em, ¿e przeciêtny cz³owiek skacze na wysokoœæ 46 cm (w odró¿nieniu od Michaela Jordana, który skacze na przynajmniej 110 cm).
+
+
+
+Dziêki temu uzyskujê si³ê skoku. Nastêpnie dodajê do tego si³ê jako F=mg, czyli si³ê potrzebn¹ na zwalczanie grawitacji. Przyspieszenie to oczywiœcie g=9,81, masa to 80 kg dla przeciêtnego cz³owieka i 98 kg dla Michaela Jordana. Teraz dysponujê ca³ym “bud¿etem” si³y. Mogê przejœæ do rzeczy. Odejmujê F=mgx dla danych cia³ niebieskich (czyli si³ê po¿ytkowan¹ na walkê z lokaln¹ grawitacj¹, na utrzymaæ siê na nogach) a reszty u¿ywam do wyliczenia prêdkoœci pocz¹tkowej. To porównujemy z prêdkoœci¹ ucieczki w danym miejscu.
+
+
+
+Wyniki
+
+Nikogo pewnie nie zaskoczy, ¿e nie ma mo¿liwoœci, by si³¹ miêœni uwolniæ siê z studni grawitacyjnej wiêkszych ksiê¿yców. Dopiero cia³a o wymiarach rzêdu kilkunastu-kilkudziesiêciu kilometrów s¹ wystarczaj¹co lekkie, by astronauta móg³ baæ siê, ¿e zbyt gwa³towny krok poœle go w pustkê. Na powierzchni Phobosa, wiêkszego z dwóch ksiê¿yców Marsa, zarówno Michael Jordan jak i przeciêtny Joe mogliby spektakularnie poskakaæ bez wiêkszych obaw. Ale na mniejszym z nich, Deimosie obaj mogliby... na przyk³ad zeskoczyæ na Marsa. Uda³o mi siê znaleŸæ dwa miejsca gdzie tylko sportowiec pokroju Jordana móg³by powiedzieæ “I don’t wanna live on this moon anymore”, spakowaæ plecak i polecieæ w cholerê, a osoby nie bêd¹ce lekkoatletami mog³yby jedynie pozazdroœciæ. To Eros i Atlas. W przypadku tego pierwszego uœredni³em promieñ, wiêc mo¿liwe, ¿e MJ móg³by pokonaæ si³ê grawitacji na odleg³ych koñcach pod³u¿nego Erosa, ale nie na równiku.
+
+
+
+Epilog
+
+W kilku miejscach moje wyliczenia rozmijaj¹ siê z danymi z Wikipedii, wiêc mogê byæ w b³êdzie. Ale rzêdy wielkoœci powinny byæ OK. Co wiêcej wydaje mi siê, ¿e kilka lat temu, wykonywa³em ten sam eksperyment myœlowy i wyniki by³y podobne, choæ na sto procent pos³ugiwa³em siê inn¹ metod¹. Mówiê to w oczekiwaniu na tych wszystkich, którzy zechc¹ mnie poprawiæ - do dzie³a!
+
+
+ród³a:
+Is there a small enough planet or asteroid you can orbit by jumping?
+The Physics of the Vertical Jump
+Newtons Second Law force to accelerate jumping person
+Throwing Something Into Orbit
+Is there a small enough planet or asteroid you can orbit by jumping?
+Could a Human reach escape velocity by jumping from the surface of Ceres?
+if I jump high from Deimos' surface will I escape from it forever?
+
+
+Podoba Ci siê to co robiê? Wp³yñ na rozwój strony i zostañ patronem Wêglowego.

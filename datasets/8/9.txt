@@ -1,0 +1,19 @@
+Niektórzy u¿ytkownicy Firefoxa zobaczyli w przegl¹darce reklamê. Na stronie powitalnej, wyœwietlanej miêdzy innymi po otwarciu nowej karty, pojawi³a siê oferta ³¹czona – do rezerwacji hotelu przez Booking.com mo¿na dostaæ bon podarunkowy do Amazonu o wartoœci 20 dolarów. Oferta ma pewne ograniczenia i zapewne kierowana jest tylko do u¿ytkowników w Stanach Zjednoczonych, ale mo¿liwe, ¿e zaczn¹ pojawiaæ siê tak¿e na Starym Kontynencie.
+
+Powy¿sz¹ ofertê œwi¹teczn¹ zobaczy³ w swojej przegl¹darce u¿ytkownik Reddita. Zosta³a ona opisana jako podziêkowanie od Mozilli i po³¹czona z ¿yczeniami œwi¹tecznymi. Oferta nie pojawia siê konsekwentnie i choæ wiele osób próbowa³o, trudno przywo³aæ j¹ na ¿yczenie. Drobne œledztwo internautów wykaza³o, ¿e oferta jest widoczna w Firefoxie 64.0. 
+
+ Reklama pojawia siê w miejscu, gdzie zwykle Firefox prezentuje porady albo informacje o nowoœciach. By j¹ dostarczyæ do odbiorców, wykorzystany zosta³ mechanizm Snippetów – us³uga, dziêki której Mozilla mo¿e komunikowaæ u¿ytkownikom Firefoxa istotne lub ciekawe informacje. Tym razem jednak marketingowcy Mozilli poszli w innym kierunku i Snippet zosta³ wykorzystany do celów komercyjnych.
+Wizerunek Mozilli zagro¿ony
+
+Nie jest to pierwszy raz, gdy Mozilla próbuje umieœciæ reklamê w taki czy inny sposób w swojej przegl¹darce, na przyk³ad jako kafelek na stronie startowej albo pozycja w menu. Za ka¿dym razem koñczy³o siê to protestami u¿ytkowników. Tym razem jest podobnie – nikt nie uprzedzi³ u¿ytkowników Firefoxa, ¿e mog¹ zobaczyæ komercyjn¹ ofertê w miejscu, gdzie zwykle prezentowane s¹ wskazówki i og³oszenia. Opis us³ugi nie wspomina ani s³owem o mo¿liwoœci otrzymywania tym kana³em reklam.
+
+Takie posuniêcie pewnie nie zdziwi³oby nas w wykonaniu Google'a lub Microsoftu, ale Mozilla promuje swój wizerunek jako obroñcy prywatnoœci. Prezentowanie reklam bez uprzedzenia nie idzie w parze ochron¹ danych.
+Jak wy³¹czyæ Snippety?
+
+Szczêœliwie Mozilla da³a nam mo¿liwoœæ wy³¹czenie Snippetów w ustawieniach strony startowej. Warto o tym pamiêtaæ na wypadek, gdyby reklamy by³y prezentowane poza Stanami Zjednoczonymi. By to zrobiæ, trzeba przejœæ do ustawieñ pod adresem:
+
+    about:preferences#home 
+
+Odpowiednie ustawienie znajduje siê na samym dole tej strony. 
+
+W polskiej wersji Firefoxa s¹ to po prostu „Informacje od Mozilli”. 

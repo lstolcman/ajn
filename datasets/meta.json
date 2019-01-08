@@ -1,0 +1,628 @@
+{
+    "articles": [
+        {
+            "site": "https://vetulani.wordpress.com/",
+            "author": "Jerzy Vetulani",
+            "type": "popular science",
+            "directory": "1",
+            "articles": [
+                {
+                    "title": "Starsze siostry histerii dopalaczowej",
+                    "url": "https://vetulani.wordpress.com/2010/10/10/o-histeriach-i-miliardach-przelanych-na-konta-producentow-szczepionek/",
+                    "words": 679,
+                    "characters": 4779,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Postępy frenologii – na marginesie odkrycia ośrodka introspekcji w mózgu",
+                    "url": "https://vetulani.wordpress.com/2010/10/18/postepy-frenologii-%e2%80%93-na-marginesie-odkrycia-osrodka-introspekcji-w-mozgu/",
+                    "words": 916,
+                    "characters": 6782,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Naiwni psycholodzy",
+                    "url": "https://vetulani.wordpress.com/2010/10/25/naiwni-psycholodzy/",
+                    "words": 274,
+                    "characters": 1986,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Jak poznałem przyjaciela",
+                    "url": "https://vetulani.wordpress.com/2010/11/01/jak-poznalem-przyjaciela/",
+                    "words": 508,
+                    "characters": 3590,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Tajemnice orgazmu i podniecenia u kobiet",
+                    "url": "https://vetulani.wordpress.com/2010/11/18/tajemnice-orgazmu-i-podniecenia-u-kobiet/",
+                    "words": 614,
+                    "characters": 4498,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Genetyka a poglądy polityczne",
+                    "url": "https://vetulani.wordpress.com/2010/11/02/genetyka-a-poglady-polityczne/",
+                    "words": 630,
+                    "characters": 4645,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Czkająca morderczyni",
+                    "url": "https://vetulani.wordpress.com/2010/11/29/czkajaca-morderczyni/",
+                    "words": 651,
+                    "characters": 4739,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Smutek marzeń",
+                    "url": "https://vetulani.wordpress.com/2010/12/27/smutek-marzen/",
+                    "words": 689,
+                    "characters": 4802,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Duch i materia. Medytacja zmienia mózg",
+                    "url": "https://vetulani.wordpress.com/2011/02/10/duch-i-materia-medytacja-zmienia-mozg/",
+                    "words": 1567,
+                    "characters": 11822,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Ecstasy – jak straszny jest diabeł?",
+                    "url": "https://vetulani.wordpress.com/2011/03/12/ecstasy-jak-straszny-jest-diabel/",
+                    "words": 989,
+                    "characters": 7028,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://weglowy.blogspot.com/",
+            "author": "Węglowy Szowinista",
+            "type": "popular science",
+            "directory": "2",
+            "articles": [
+                {
+                    "title": "Co kryje Utlima Thule ",
+                    "url": "https://weglowy.blogspot.com/2019/01/co-kryje-utlima-thule.html",
+                    "words": 475,
+                    "characters": 3231,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Nauka o klimacie - recenzja ",
+                    "url": "https://weglowy.blogspot.com/2018/12/nauka-o-klimacie-recenzja.html",
+                    "words": 836,
+                    "characters": 5596,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Lubię obiektywne pokazywanie faktów ",
+                    "url": "https://weglowy.blogspot.com/2018/12/lubie-obiektywne-pokazywanie-faktow.html",
+                    "words": 247,
+                    "characters": 1681,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Mecz o honor ",
+                    "url": "https://weglowy.blogspot.com/2018/10/mecz-o-honor.html",
+                    "words": 1323,
+                    "characters": 9862,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "O słoniach i rakach",
+                    "url": "https://weglowy.blogspot.com/2018/09/o-soniach-i-rakach.html",
+                    "words": 666,
+                    "characters": 4475,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "O tankowaniu rakiet słów kilka",
+                    "url": "https://weglowy.blogspot.com/2018/08/o-tankowaniu-rakiet-sow-kilka.html",
+                    "words": 501,
+                    "characters": 3310,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Suche fakty o wodzie na Marsie ",
+                    "url": "https://weglowy.blogspot.com/2018/07/suche-fakty-o-wodzie-na-marsie.html",
+                    "words": 572,
+                    "characters": 4121,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Nowe księżyce Jowisza. W tym jeden dziwak.",
+                    "url": "https://weglowy.blogspot.com/2018/07/nowe-ksiezyce-jowisza-w-tym-jeden-dziwak.html",
+                    "words": 349,
+                    "characters": 2399,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Prawda o wymieraniu pszczół i neonikotynoidach",
+                    "url": "https://weglowy.blogspot.com/2018/07/prawda-o-wymieraniu-pszczo-i.html",
+                    "words": 1151,
+                    "characters": 7927,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Michael Jordan w kosmosie",
+                    "url": "https://weglowy.blogspot.com/2018/07/michael-jordan-w-kosmosie.html",
+                    "words": 741,
+                    "characters": 4820,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://www.kwantowo.pl/",
+            "author": "Adam Adamczyk",
+            "type": "popular science",
+            "directory": "3",
+            "articles": [
+                {
+                    "title": "5 rzeczy, które powinieneś wiedzieć o LED-ach",
+                    "url": "https://www.kwantowo.pl/2018/11/20/5-rzeczy-ktore-powinienes-wiedziec-o-led-ach/",
+                    "words": 1347,
+                    "characters": 10038,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Nowy kilogram – lepszy, bo kwantowy",
+                    "url": "https://www.kwantowo.pl/2018/11/16/nowy-kilogram-lepszy-bo-kwantowy/",
+                    "words": 1711,
+                    "characters": 12105,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Kult cargo: Gdy człowiek tworzy boga",
+                    "url": "https://www.kwantowo.pl/2018/10/22/kult-cargo-gdy-czlowiek-tworzy-boga/",
+                    "words": 1390,
+                    "characters": 10351,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Nobel za optyczną pęsetę – krótko i niezbyt przejrzyście",
+                    "url": "https://www.kwantowo.pl/2018/10/03/nobel-za-laserowa-pesete-krotko-i-niezbyt-przejrzyscie/",
+                    "words": 809,
+                    "characters": 6439,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Dlaczego astronomia powinna pozostać oddzielną dyscypliną?",
+                    "url": "https://www.kwantowo.pl/2018/09/12/dlaczego-astronomia-powinna-pozostac-oddzielna-dyscyplina/",
+                    "words": 1389,
+                    "characters": 10253,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Pęknięty bozon – o cząstce Higgsa i jej rozpadach",
+                    "url": "https://www.kwantowo.pl/2018/09/03/pekniety-bozon-o-czastce-higgsa-i-jej-rozpadach/",
+                    "words": 1832,
+                    "characters": 13983,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "W obliczu niemożliwego. Terraformowanie Marsa",
+                    "url": "https://www.kwantowo.pl/2018/08/05/terraformowanie-marsa-w-obliczu-niemozliwego/",
+                    "words": 1863,
+                    "characters": 14042,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Wielkie, przepastne nic – o kosmicznych pustkach",
+                    "url": "https://www.kwantowo.pl/2018/07/27/wielkie-przepastne-nic-o-kosmicznych-pustkach/",
+                    "words": 1271,
+                    "characters": 9549,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Gliese 710 – sąsiadka, która wpadnie z wizytą",
+                    "url": "https://www.kwantowo.pl/2018/06/06/gliese-710-sasiadka-ktora-wpadnie-z-wizyta/",
+                    "words": 1337,
+                    "characters": 9227,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Gdy czas był przestrzenią: Model Hawkinga-Hartle’a",
+                    "url": "https://www.kwantowo.pl/2018/05/11/model-hawkinga-hartlea/",
+                    "words": 1987,
+                    "characters": 14757,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://florydziak.com/",
+            "author": "Florydziak",
+            "type": "popular science",
+            "directory": "4",
+            "articles": [
+                {
+                    "title": "Mam poważne wątpliwości",
+                    "url": "https://florydziak.com/blogger/2019/01/mam-powazne-watpliwosci.html",
+                    "words": 91,
+                    "characters": 603,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Rewolucyjne ceny Modelu 3 w Europie",
+                    "url": "https://florydziak.com/blogger/2019/01/rewolucyjne-ceny-modelu-3-w-europie.html",
+                    "words": 139,
+                    "characters": 902,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Bałwany, lądowania i dłuższa cisza",
+                    "url": "https://florydziak.com/blogger/2019/01/balwany-ladowania-i-dluzsza-cisza.html",
+                    "words": 257,
+                    "characters": 1527,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Tesla",
+                    "url": "https://florydziak.com/blogger/2019/01/tesla.html",
+                    "words": 245,
+                    "characters": 1560,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Dziuragate",
+                    "url": "https://florydziak.com/blogger/2018/12/dziuragate.html",
+                    "words": 368,
+                    "characters": 2393,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "O osłonie termicznej BFR",
+                    "url": "https://florydziak.com/blogger/2018/12/o-oslonie-termicznej-bfr.html",
+                    "words": 592,
+                    "characters": 4131,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Oni naprawdę spawają rakietę na świeżym powietrzu",
+                    "url": "https://florydziak.com/blogger/2018/12/oni-naprawde-spawaja-rakiete-na-swiezym-powietrzu.html",
+                    "words": 80,
+                    "characters": 544,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Najnowsze wiadomości na temat awarii RS-25",
+                    "url": "https://florydziak.com/blogger/2018/12/najnowsze-wiadomosci-na-temat-awarii-rs-25.html",
+                    "words": 65,
+                    "characters": 403,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Pierwszy z siedmiu",
+                    "url": "https://florydziak.com/blogger/2018/12/pierwszy-z-siedmiu.html",
+                    "words": 173,
+                    "characters": 1093,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Poniedziałkowe",
+                    "url": "https://florydziak.com/blogger/2018/12/poniedzialkowe.html",
+                    "words": 496,
+                    "characters": 3080,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://czajniczek-pana-russella.blogspot.com/",
+            "author": "Michał Łaszczyk",
+            "type": "popular science",
+            "directory": "5",
+            "articles": [
+                {
+                    "title": "Księżycowi naziści",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2019/01/ksiezycowi-nazisci.html",
+                    "words": 560,
+                    "characters": 3807,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Panika moralna",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/12/panika-moralna.html",
+                    "words": 440,
+                    "characters": 3095,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "I słowo ciałem się stało",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/12/i-sowo-ciaem-sie-stao.html",
+                    "words": 570,
+                    "characters": 4072,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Spór o smoczy ogień",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/12/spor-o-smoczy-ogien.html",
+                    "words": 511,
+                    "characters": 3475,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Nie warto rozmawiać",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/11/nie-warto-rozmawiac.html",
+                    "words": 552,
+                    "characters": 3797,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Homeopatyczna antykoncepcja",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/11/homeopatyczna-antykoncepcja.html",
+                    "words": 513,
+                    "characters": 3623,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Potęga konwencji",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/11/potega-konwencji.html",
+                    "words": 615,
+                    "characters": 4174,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Groza przepalonej żarówki",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/11/groza-przepalonej-zarowki.html",
+                    "words": 438,
+                    "characters": 3126,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Gdzie się podziali kanibale?",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/10/gdzie-sie-podziali-kanibale.html",
+                    "words": 560,
+                    "characters": 3918,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Opętanie jako spektakl",
+                    "url": "https://czajniczek-pana-russella.blogspot.com/2018/10/opetanie-jako-spektakl.html",
+                    "words": 597,
+                    "characters": 4226,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://nicprostszego.wordpress.com/",
+            "author": "nic prostszego",
+            "type": "popular science",
+            "directory": "6",
+            "articles": [
+                {
+                    "title": "Tennanta łańcuch skojarzeń",
+                    "url": "https://nicprostszego.wordpress.com/2018/12/28/tennanta-lancuch-skojarzen-2/",
+                    "words": 1100,
+                    "characters": 7768,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Łamacz zasad",
+                    "url": "https://nicprostszego.wordpress.com/2018/12/26/lamacz-zasad/",
+                    "words": 1521,
+                    "characters": 10548,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Wiedza dla każdego",
+                    "url": "https://nicprostszego.wordpress.com/2018/12/20/wiedza-dla-kazdego/",
+                    "words": 992,
+                    "characters": 6846,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Badania nad żywieniem, które przyprawią Was o niestrawność",
+                    "url": "https://nicprostszego.wordpress.com/2018/09/23/badania-nad-zywieniem-ktore-przyprawia-was-o-niestrawnosc/",
+                    "words": 2690,
+                    "characters": 18836,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Zwyczajowa przymiarka do Nagród Nobla",
+                    "url": "https://nicprostszego.wordpress.com/2018/09/21/zwyczajowa-przymiarka-do-nagrod-nobla/",
+                    "words": 703,
+                    "characters": 5185,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Czy leci z nami pilot, czyli problem powtarzalności",
+                    "url": "https://nicprostszego.wordpress.com/2018/08/28/czy-leci-z-nami-pilot-czyli-problem-powtarzalnosci/",
+                    "words": 1836,
+                    "characters": 13362,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Dziedzictwo Dżyngis Chana",
+                    "url": "https://nicprostszego.wordpress.com/2018/04/21/dziedzictwo-dzyngis-chana/",
+                    "words": 1343,
+                    "characters": 9281,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Europa staje wydawcom okoniem",
+                    "url": "https://nicprostszego.wordpress.com/2018/07/31/europa-staje-wydawcom-okoniem/",
+                    "words": 601,
+                    "characters": 4151,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Kinga Dunin czyta (nie całkiem ze zrozumieniem)",
+                    "url": "https://nicprostszego.wordpress.com/2018/03/28/kinga-dunin-czyta-nie-calkiem-ze-zrozumieniem/",
+                    "words": 644,
+                    "characters": 4383,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Runął kolejny domek z kart",
+                    "url": "https://nicprostszego.wordpress.com/2018/04/02/runal-kolejny-domek-z-kart/",
+                    "words": 2686,
+                    "characters": 18801,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://www.dobreprogramy.pl/",
+            "author": "Oskar Ziomek",
+            "type" : "computer news",
+            "directory": "7",
+            "articles": [
+                {
+                    "title": "Google usunął 85 niebezpiecznych aplikacji na Androida. Pobrano je ponad 9 mln razy",
+                    "url": "https://www.dobreprogramy.pl/aplikacje-adware-android-przestroga,News,99552.html",
+                    "words": 288,
+                    "characters": 2132,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Windows 10 zarezerwuje dodatkowe 7 GB na dysku, by uniknąć problemów z aktualizacjami",
+                    "url": "https://www.dobreprogramy.pl/windows-rezerwacja-miejsca-na-dysku,News,99547.html",
+                    "words": 423,
+                    "characters": 3155,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "TP-Link na CES 2019: 6 nowych urządzeń, w tym router z Wi-Fi o łącznej prędkości ponad 10 Gb/s",
+                    "url": "https://www.dobreprogramy.pl/tplink-ces-2019-nowe-routery,News,99543.html",
+                    "words": 410,
+                    "characters": 2868,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Google Chrome zawiesza się co kilka sekund? Powodem może być dodatek do antywirusa Avira",
+                    "url": "https://www.dobreprogramy.pl/dodatek-avira-zawiesza-przegladarke-chrome,News,99540.html",
+                    "words": 249,
+                    "characters": 1857,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Acer na CES 2019: nowy Swift 7 waży niecałe 900 gramów i spodoba się fanom wąskich ramek",
+                    "url": "https://www.dobreprogramy.pl/acer-swift-laptop-ces-2019,News,99507.html",
+                    "words": 308,
+                    "characters": 1981,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Darmowy GitHub zyskuje wyczekiwaną opcję – możliwość tworzenia prywatnych repozytoriów",
+                    "url": "https://www.dobreprogramy.pl/github-znosi-ograniczenia-darmowych-kont,News,99522.html",
+                    "words": 239,
+                    "characters": 1690,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Aktualizacja Windows powodem sporu: użytkownik oczekuje 1100 euro odszkodowania",
+                    "url": "https://www.dobreprogramy.pl/windows-aktualizacja-bez-zgody-odszkodowanie,News,99512.html",
+                    "words": 326,
+                    "characters": 2417,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Dell Latitude 7400 – laptop dla wymagających. Raz naładowany będzie działał przez 24 godziny",
+                    "url": "https://www.dobreprogramy.pl/dell-latitude-laptop-duzy-akumulator,News,99480.html",
+                    "words": 473,
+                    "characters": 3368,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Ładowanie przez USB-C będzie bezpieczniejsze – powstał protokół uwierzytelniający",
+                    "url": "https://www.dobreprogramy.pl/usb-ladowanie-protokol-uwierzytelniajacy,News,99420.html",
+                    "words": 286,
+                    "characters": 2139,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Nokia 9 PureView: render i film potwierdzają 5 aparatów z optyką ZEISS i topową specyfikację",
+                    "url": "https://www.dobreprogramy.pl/nokia-pure-view-zeiss-android,News,99367.html",
+                    "words": 435,
+                    "characters": 3107,
+                    "file": "10.txt"
+                }
+            ]
+        },
+        {
+            "site": "https://www.dobreprogramy.pl/",
+            "author": "Anna Rymsza",
+            "type" : "computer news",
+            "directory": "8",
+            "articles": [
+                {
+                    "title": "Panasonic Lumix S1, tańszy Wacom Cintiq dla początkujących i inne fotograficzne nowości na CES 2019",
+                    "url": "https://www.dobreprogramy.pl/Panasonic-Lumix-S1-tanszy-Wacom-Cintiq-dla-poczatkujacych-i-inne-fotograficzne-nowosci-na-CES-2019,News,99549.html",
+                    "words": 704,
+                    "characters": 4824,
+                    "file": "1.txt"
+                },
+                {
+                    "title": "Spotify wprowadzi reklamy do najlepszej funkcji. Pierwszym klientem jest Microsoft",
+                    "url": "https://www.dobreprogramy.pl/spotify-reklamy-discover-weekly,News,99537.html",
+                    "words": 217,
+                    "characters": 1592,
+                    "file": "2.txt"
+                },
+                {
+                    "title": "Dysk USB 4 TB i superszybkie, przenośne dyski SSD – Nowości WD na CES 2019",
+                    "url": "https://www.dobreprogramy.pl/Dysk-USB-4-TB-i-superszybkie-przenosne-dyski-SSD-Nowosci-WD-na-CES-2019,News,99524.html",
+                    "words": 298,
+                    "characters": 1978,
+                    "file": "3.txt"
+                },
+                {
+                    "title": "Gdzie mieszkał Jack Tramiel, założyciel Commodore? Łodzianie odnaleźli dom jego rodziny",
+                    "url": "https://www.dobreprogramy.pl/Gdzie-mieszkal-Jack-Tramiel-zalozyciel-Commodore-Lodzianie-odnalezli-dom-jego-rodziny,News,99464.html",
+                    "words": 1372,
+                    "characters": 9310,
+                    "file": "4.txt"
+                },
+                {
+                    "title": "Netflix robi za dobre filmy. Nowy horror zaczął falę niebezpiecznych wyzwań",
+                    "url": "https://www.dobreprogramy.pl/netflix-bird-box-challenge,News,99448.html",
+                    "words": 288,
+                    "characters": 1945,
+                    "file": "5.txt"
+                },
+                {
+                    "title": "Fuchsia uruchomi aplikacje dla Androida. Nowy system odziedziczy stary sklep?",
+                    "url": "https://www.dobreprogramy.pl/Fuchsia-uruchomi-aplikacje-dla-Androida.-Nowy-system-odziedziczy-stary-sklep,News,99424.html",
+                    "words": 301,
+                    "characters": 2203,
+                    "file": "6.txt"
+                },
+                {
+                    "title": "Nowe patenty Apple'a pokazują, jak będzie wyglądać tkanina przyszłości",
+                    "url": "https://www.dobreprogramy.pl/Nowe-patenty-Applea-pokazuja-jak-bedzie-wygladac-tkanina-przyszlosci,News,99436.html",
+                    "words": 396,
+                    "characters": 2902,
+                    "file": "7.txt"
+                },
+                {
+                    "title": "Python już jest w Windows Store, ale brak wielu innych narzędzi dla programistów",
+                    "url": "https://www.dobreprogramy.pl/Python-juz-jest-w-Windows-Store-ale-brak-wielu-innych-narzedzi-dla-programistow,News,99440.html",
+                    "words": 206,
+                    "characters": 1500,
+                    "file": "8.txt"
+                },
+                {
+                    "title": "Firefox wyświetla reklamy na stronie powitalnej. Na razie tylko w USA i można je wyłączyć",
+                    "url": "https://www.dobreprogramy.pl/firefox-reklamy-jak-wylaczyc,News,99369.html",
+                    "words": 319,
+                    "characters": 2310,
+                    "file": "9.txt"
+                },
+                {
+                    "title": "Nie żyje Larry Roberts, jeden z twórców podstaw internetu",
+                    "url": "https://www.dobreprogramy.pl/Nie-zyje-Larry-Roberts-jeden-z-tworcow-podstaw-internetu,News,99371.html",
+                    "words": 315,
+                    "characters": 2234,
+                    "file": "10.txt"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+Dla wytrwa³ych czytelników, na koñcu tekstu zamieœci³em coœ innego ni¿ zawsze.
+
+¯ycie to jeden wielki ci¹g mno¿¹cych siê komórek. Dziel¹ siê, narastaj¹ w wyniku fascynuj¹cego, “cyfrowego” u swoich podstaw procesu. Nic jednak nie jest doskona³e, czasem coœ pójdzie nie tak i komórka mutuje. To jeszcze nie koniec œwiata, a wrêcz to czêœæ procesu ewolucji. B³êdy prowadz¹ do powstawania nowych, skutecznych rozwi¹zañ. Czasem jednak, kiedy do mutacji dochodzi w dojrza³ym (lub nawet dojrzewaj¹cym) organizmie, komórki zaczynaj¹ siê dzieliæ w sposób niekontrolowany i niekorzystny - powstaje nowotwór.
+
+Jest to generalnie proces losowy, choæ s¹ czynniki sprzyjaj¹ce temu nieszczêœciu. Niemal ka¿da komórka mo¿e paœæ ofiar¹ mutacji. Co za tym idzie, im wiêcej komórek, tym wiêcej szans na nowotwór. Czysta matma. Rzucaj¹c kilkoma kostkami mamy mniejsze szanse, ¿e na choæ jednej wypadnie niekorzystny wynik ni¿ gdy rzucimy pe³n¹ garœci¹. A jednak zaobserwowano, ¿e s³onie - nasi krewni - choæ maj¹ znacznie wiêcej komórek, rzadziej cierpi¹ na nowotwory. Szacunkowo 17% ludzi zmaga lub bêdzie zmagaæ siê z tymi chorobami, wœród s³oni to zaledwie 5%. Odsetek ten jest jeszcze mniejszy u wielorybów.
+
+Wiemy o tym od lat. Kilka lat temu naukowcy zauwa¿yli, ¿e s³onie maj¹ w DNA a¿ dwadzieœcia kopii genu p53. Gen ten kontroluje podzia³ komórek i rozpoznaje uszkodzenia DNA. Innymi s³owy kod genetyczny s³oni jest bardziej wyczulony na jego w³asne niedoskona³oœci. To oczywiœcie nie wyjaœnia wszystkiego. I tu pojawia siê og³oszona niedawno nowoœæ. Gen p53 aktywuje inny gen. LIF6, to nowa, fajniejsza wersja genu LIF, który posiadaj¹ równie¿ ludzie. S³oniowa wersja to terminator komórek nowotworowych. U nas s³u¿y m.in. do komunikacji miêdzy komórkami. LIF6 jednak produkuje bia³ka, które trafiaj¹ do wadliwych komórek i wycinaj¹ dziury w ich mitochondriach. Mitochondria, normalnie “zasilaj¹ce” komórki, rozlewaj¹ swoj¹ zawartoœæ, która jest œmiertelnie szkodliwa dla komórki jako ca³oœci.
+
+Jak ³atwo siê domyœliæ, naukowcy maj¹ nadziejê, ¿e analiza tego mechanizmu mo¿e nas doprowadziæ do uniwersalnej metody radzenia sobie z t¹ okropn¹ przypad³oœci¹. Z jednej strony brzmi to obiecuj¹co, z drugiej myœlê, ¿e warto poczekaæ z entuzjazmem. O ile jesteœmy teoretycznie zdolni do manipulacji pojedynczymi genami, to chyba wyobra¿acie sobie jak ogromny sprzeciw wywo³a³yby choæby propozycje by wprowadzaæ do ludzkiego DNA nowe geny. Ponadto w przeciwieñstwie do programów w naszych komputerach, geny najczêœciej nie maj¹ jednej funkcji.
+
+Pocieszaj¹ce jest jednak to, ¿e istniej¹ inne mechanizmy. Bo jak siê okazuje wieloryby nie maj¹ dodatkowych kopii genu p53. A s¹ jeszcze bardziej odporne na nowotwory ni¿ ludzie i s³onie. To w sumie logiczne, ¿e ewolucyjnie ró¿ne organizmy osi¹gnê³y pewien poziom tendencji do mutacji. Odstêpstwem s¹ golce - wyj¹tkowo brzydkie gryzonie, które w przeciwieñstwie do krewniaków, którym mimo krótkiego ¿ywota i ma³ej liczby komórek nowotwory nie s¹ obce, ¿yj¹ d³ugo i bez nowotworów.
+
+Mimo ca³ych dekad badañ, nigdy nie zaobserwowano by golec wyhodowa³ guza. [Aktualizacja: a jednak choruj¹] W 2013 odkryto, ¿e kwas hialuronowy, którego produkuj¹ wiêcej ni¿ my, ma troszkê inn¹ budowê i tworzy bufor miêdzy komórkami, przez co nawet gdy któraœ zmutuje, nie pozwala on na jej dalsze podzia³y. Choæ badane s¹ mo¿liwoœci stymulowania produkcji golcowej wersji kwasu u ludzi, trzeba braæ pod uwagê, ¿e u nas mo¿e siê to nie sprawdziæ. Nie jesteœmy golcami. U nas mo¿e byæ wrêcz szkodliwy.
+
+Zbli¿aj¹c siê do koñca, dodam s³owo komentarza - rak i nowotwór to nie to samo. Rak to nowotwór z³oœliwy. Zaznaczam to bo notka jest ogólnie o nowotworach, ale dla chwytliwoœci w tytule napisa³em o “rakach”. A wbrew mitom, rekiny te¿ cierpi¹ na nowotwory.
+
+Zanim przejdziemy do Ÿróde³, zamiast zwyczajowej strza³ki do Patronite bêdzie coœ innego. Tak siê przykro z³o¿y³o, ¿e szykuj¹c t¹ notkê dowiedzia³em siê, ¿e moja znajoma cierpi na raka. Minê³y dwa tygodnie, a ja dalej nie wymyœli³em co sensownego mo¿na napisaæ o Wiewiórce i raku. Dlatego jedynie podsunê Wam linka: http://wiewiorawygrywazrakiem.pl
+
+
+ród³a:
+The ‘Zombie Gene’ That May Protect Elephants From Cancer
+Dlaczego s³onie nie choruj¹ na nowotwory?
+The Animal that doesn't get cancer
+Peto’s Paradox: how has evolution solved the problem of cancer prevention?
+High-molecular-mass hyaluronan mediates thecancer resistance of the naked mole rat
+Foto: procitova
+Foto: Robbie Shade
+Foto: Meghan Murphy, Smithsonian’s National Zoo.

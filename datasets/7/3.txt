@@ -1,0 +1,14 @@
+W Las Vegas trwaj¹ targi CES 2019, a jednym z producentów pokazuj¹cych swoje nowe produkty jest TP-Link. W tym przypadku zaprezentowanych zosta³o a¿ 6 urz¹dzeñ, które mog¹ znacznie zmieniæ rynek domowych sprzêtów kierowanych do najbardziej wymagaj¹cych. Zaprezentowane urz¹dzenia sieciowe dzia³aj¹ w nowym standardzie 802.11ax, a jeden z pokazanych routerów oferuje Wi-Fi, którego teoretyczna ³¹czna prêdkoœæ wynosi ponad 10 Gb/s.
+
+Najszybszy model, o którym mowa, to router Archer AX11000 stworzony z myœl¹ o graczach. Urz¹dzenie obs³uguje trzy pasma, których teoretyczna ³¹czna prêdkoœæ wynosi 10756 Mb/s, czyli nieco ponad 10 Gb/s. Sprzêt zosta³ nagrodzony tytu³em CES 2019 Innovation Honoree i jest pierwszym gamingowym routerem w ofercie TP-Linka, który dzia³a w standardzie ax. 
+
+Inny zaprezentowany router to dwupasmowy model Archer AX6000. W paœmie 2,4 GHz ³¹czna maksymalna prêdkoœæ to 1148 Mb/s, zaœ w przypadku pasma 5 GHz ³¹czna prêdkoœæ to 4804 Mb/s. Jak podaje producent, urz¹dzenie zosta³o zaprojektowane z myœl¹ o zwiêkszaniu prêdkoœci po³¹czeñ i obs³udze wielu sprzêtów jednoczeœnie, przez co ma byæ dobr¹ propozycj¹ do nowoczesnego domu, gdzie bêdzie wykorzystywane zarówno do streamingu wideo (tak¿e w rozdzielczoœciach 4K i 8K), jak i gier online. Sprzêt zosta³ wyposa¿ony w 8 gigabitowych portów LAN i port WAN o prêdkoœci 2,5 Gb/s.
+
+U¿ytkowników zainteresowanych stworzeniem dobrego zasiêgu Wi-Fi w du¿ym domu powinien zainteresowaæ system Wi-Fi Mesh Deco X10, który pozwala uruchomiæ jedn¹ sieæ obs³ugiwan¹ przez kilka urz¹dzeñ, co zwiêksza jej realny zasiêg. Urz¹dzenia obs³uguj¹ trzy pasma i maj¹ ³¹czyæ zalety klasycznego systemu mesh z szybkoœci¹ nowego standardu, w tym przypadku AX2700. TP-Link zaznacza, ¿e system wykorzystuje ³¹cze dosy³owe o prêdkoœci siêgaj¹cej niemal 2 Gb/s, co ma siê przek³adaæ na wydajnoœæ ca³oœci.
+TP-Link na CES 2019 nie zapomnia³ o mniej zamo¿nych
+
+Klientów dysponuj¹cych mniejszym bud¿etem powinny zainteresowaæ dwa inne dwupasmowe routery (Archer AX1800 oraz Archer AX1500), a tak¿e wzmacniacz Wi-Fi RE705X. Urz¹dzenie dzia³a w standardzie AX1800 i obs³uguje dwa pasma: 2,4 oraz 5 GHz. Na tê chwile nie wiemy ile bêdzie kosztowaæ, ale producent mówi o przystêpnej cenie, a produkt poleca przede wszystkim rodzinom, a nie entuzjastom.
+
+Nasze routery nowej generacji to idealny wybór dla wymagaj¹cych klientów, którzy szukaj¹ maksymalnej wydajnoœci sieci. Przy tak szerokiej gamie produktów ka¿dy u¿ytkownik znajdzie router w standardzie AX dopasowany do swoich potrzeb – niezale¿nie od wymagañ i bud¿etów – opisuje ofertê Luis Liu, prezes amerykañskiego oddzia³u TP-Link odpowiedzialnego za przygotowanie ekspozycji na CES.
+
+Routery Archer AX6000 oraz AX11000 maj¹ siê pojawiæ na polskim rynku na prze³omie pierwszego i drugiego kwarta³u 2019 roku. Pozosta³e produkty trafi¹ do sprzeda¿y w czwartym kwartale bie¿¹cego roku.

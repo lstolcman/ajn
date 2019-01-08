@@ -1,0 +1,39 @@
+Od prawie trzydziestu lat (okrag³a rocznica za rok) ISI, Thomson Reuters, a obecnie ich nastêpca, Clarivate Analytics, og³aszaj¹ we wrzeœniu tzw. laureatów cytowañ. S¹ to badacze, których publikacje uzyskiwa³y w ostatnich latach bardzo wiele cytowañ sugeruj¹c, ¿e ich badania ciesz¹ siê przynajmniej szerokim zainteresowaniem, a w najlepszym wypadku s¹ po prostu prze³omowe.
+
+Przez lata wielu z lauretaów rzeczywiœcie doczeka³o siê – byæ mo¿e bez zaskoczenia – Noblowskich honorów. Nie jest to mo¿e zaskoczeniem – liczba cytowañ, chocia¿ nie jest wskaŸnikiem idealnym, sugeruje jednak jaki jest stopieñ zainteresowania tematem oraz konkretnymi odkryciami. Wystarczy zreszt¹ rzuciæ okiem na statystyki: wœród ponad 45 milionów publikacji zindeksowanych w bazie danych Web of Science (która nale¿y do Clarivate i jest podstaw¹ ich analiz) zaledwie nieco ponad 16 tysiêcy – oko³o 0.4 promila – by³o cytowane wiêcej ni¿ 1000 razy. Tylko 4200 by³o cytowane wiêcej ni¿ 2000. Widaæ wiêc, ¿e zale¿noœæ nie jest specjalnie liniowa.
+
+Clarivate statystyki wzbogaca te¿ o informacje o laureatach innych nagród – takich jak medyczne Nagrody im. Laskera. Te dodatkowe jakoœciowe informacje pomagaj¹ im poprawiæ Noblowskie przewidywania. Strategia sprawdza siê nieŸle – spoœród nieco ponad 300 laureatów i laureatek, 46 dosta³o ostatecznie Nagrodê Nobla.
+
+Kim zatem s¹ tegoroczni laureaci?
+
+Medycyna
+
+Bioinformatyk Minoru Kanehisa, który jest wspó³twórc¹ bazy danych Kyoto Encyclopedia of Genes and Genomes. Jest to baza zawieraj¹ca informacje na temat szlaków metabolicznych oraz ekspresji genów. Prawie ka¿de badanie w zakresie transkryptomiki korzysta z tej bazy: gdy w badaniu zidentyfikuje siê geny, których ekspresja ulega zmianie na skutek na przyk³ad choroby, ta baza pozwala okreœliæ, jak¹ pe³ni¹ funkcjê – w jakie procesy w organizmie s¹ zaanga¿owane.
+
+Neurolog Solomon Snyder znany jest z badañ nad receptorami – zidentyfikowa³ receptory wielu przekaŸników nerwowych oraz œrodków psychotropowych, miêdzy innymi opiatów.
+
+Patolog Napoleone Ferrara odkry³ czynnik wzrostu œródb³onka naczyniowego – bia³ko, które reguluje angiogenezê (proces powstawania nowych naczyñ krwionoœnych). Dziêki jego badaniom nad tym bia³kiem opracowano wiele leków, m.in. na raka, ale tak¿e na zwyrodnienie plamki ¿ó³tej (AMD).
+
+Fizyka
+
+David Awschalom oraz Arthur Gossard po raz pierwszy zaobserwowali spinowe zjawisko Halla w pó³przewodnikach (przyczynek do komputerów kwantowych).
+
+Sandra Faber opracowa³a metody na okreœlenie wieku, rozmiaru, oraz dystansu do odleg³ych galaktyk. Jej wk³ad do kosmologii i astrofizyki nie koñczy siê tylko na tym; zaprojektowa³a te¿ teleskop Kecka, prowadzi³a zespó³ poszukuj¹cy supermasywnych czarnych dziur w œrodkach galaktyk i wiele, wiele wiêcej.
+
+Yuri Gogotsi, Rodney Ruoff oraz Patrice Simon – tych badaczy Clarivate wyró¿nia za badania nad materia³ami opartymi na wêglu (grafenem, nanorurkami, itd.), nad ich zastosowaniami do magazynowania energii oraz nad mechanizmami dzia³ania nadprzewodników.
+
+Chemia
+
+Eric Jacobsen ma olbrzymi wk³ad w rozwój reakcji katalitycznych w syntezie organicznej – zw³aszcza zaœ w opracowanie reakcji epoksydacji Jacobsena (przywilej chemika – nazwania reakcji w³asnym imieniem).
+
+George Sheldrick to brytyjski krystalograf, który jest jednym z najbardziej cytowanych badaczy w tej dziedzinie. Jest te¿ twórc¹ programu SHELX do analizy wyników krystalograficznych: ten darmowy program jest jednym z najpopularniejszych pakietów do takich analiz. Sheldrick nigdy nie opublikowa³ pracy opisuj¹cej SHELX, ale gdy w 2008 napisa³ zarys historyczny dla pisma Acta Crystallographica, wskaŸnik wp³ywu (JIF) tego pisma skoczy³ z oko³o 2 do prawie 50 w 2009 roku, spychaj¹c z drugiej pozycji rankigu sta³ego rezydenta, medyczny periodyk NEJM. WskaŸnik, który by³ wynikiem dramatycznej liczby cytowañ dla tej pracy (która obecnie siêga kilkudziesiêciu tysiêcy!), powróci³ do poprzedniego stanu kilka lat póŸniej.
+
+JoAnne Stubbe odkry³a, ¿e enzym reduktaza rybonukleotydowa przekszta³ca rybukleotydy w deoksyrybonukleotydy na drodze mechanizmu wolnorodnikowego – proces ten le¿y u podstawy syntezy oraz naprawy DNA.
+
+Wnioski?
+
+Trudno o konkretne. Nigdy chyba laureat cytowañ nie dosta³ Nobla w tym samym roku – z pewnoœci¹ nie mia³o to miejsca w ostatnich latach. Wielu tegorocznych lauretów honorowana jest raczej za ca³okszta³t twórczoœci. Trudno te¿ nie przeceniæ znaczenia cytowañ dla tego rankingu – a chocia¿ liczba tych¿e dla publikacji opisuj¹cej historiê SHELX jest imponuj¹ca, ciê¿ko jest wyobraziæ sobie, ¿e Komitet Noblowski nagrodzi³by kogoœ za program komputerowy, jak bardzo popularny by ten program nie by³.
+
+Czy s¹ jakieœ szanse dla badaczy z Polski? Po zawodach jakim by³ brak nagrody, byæ mo¿e zbyt optymistycznie oczekiwanej, dla Wolszczana oraz znacznie bardziej kontrowersyjne pominiêcie kilka lat temu Krzysztofa Palczewskiego, wci¹¿ jeszcze istnieje szansa dla jedynego polskiego laureata cytowañ – Krzysztofa Matyjaszewskiego. W chemii jednak ma on mocn¹ konkurencjê w postaci badañ nad bateriami litowo-jonowymi, systemem CRISPR, nowym rodzajem sit molekularnych MOF (i COF) i wielu innych.
+
+Pierwsze og³oszenie – Nagroda z chemii – ju¿ pierwszego paŸdziernika.
