@@ -1,0 +1,1 @@
+Profile size: 50 	 N: 1 	 Result: 0.3703703703703704
