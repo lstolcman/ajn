@@ -15,17 +15,13 @@ def LoadText(author,article):
 
 def AddNgram(ngrams,text,i,n):
     newngram = text[i:(i+n)]
-    new = True
-    for ngram in ngrams:
-        if (ngram[0] == newngram):
-            new = False
-            ngram[1] += 1
-            break
-    if (new):
-        ngrams.append([newngram,1])
+    if newngram in ngrams:
+        ngrams[newngram] += 1
+    else:
+        ngrams[newngram] = 1
 
 def GetNGram(text,n):
-    ngrams = []
+    ngrams = {}
     for i in range(0,len(text) - (n - 1)):
         AddNgram(ngrams,text,i,n)   
     return ngrams
@@ -35,10 +31,10 @@ def sortSecond(val):
 
 def GetProfile(text,n,profileSize):
     profile = GetNGram(text,n)
-    for ngram in profile:
-        ngram[1] /= len(text) - (n - 1)
-    profile.sort(key = sortSecond, reverse = True) 
-    return profile[:profileSize]
+    for key in profile:
+        profile[key] /= len(text) - (n - 1)
+    pr = sorted( profile.items(), key = sortSecond, reverse = True) 
+    return dict(pr[:profileSize])
 
 def FindFraqency(pair, profile):
     for ngram in profile:
@@ -48,14 +44,18 @@ def FindFraqency(pair, profile):
 
 def ProfileDissimilarity(profile1, profile2):
     suma = 0.0
-    for pair in profile1:
-        f1 = FindFraqency(pair, profile1)
-        f2 = FindFraqency(pair, profile2)
+    for key in profile1:
+        f1 = profile1[key]
+        f2 = 0.0
+        if key in profile2:
+            f2 = profile2[key]
         suma += (2 * (f1 - f2) / (f1 + f2)) * (2 * (f1 - f2) / (f1 + f2))
-    for pair in profile2:
-        f1 = FindFraqency(pair, profile1)
-        if (f1 == 0):
-            f2 = FindFraqency(pair, profile2)
+    for key in profile2:
+        f1 = profile2[key]
+        if key in profile1:
+            continue
+        else:
+            f2 = 0
             suma += (2 * (f1 - f2) / (f1 + f2)) * (2 * (f1 - f2) / (f1 + f2))
     return suma
 
@@ -113,29 +113,32 @@ def Trial(profileSize,n,crossvalidation):
             testSize += 1
             positiveSum += ChooseAuthor(testProfiles[i],trainingProfiles,i)
     return positiveSum / testSize
-       
-def Trials(profileSize,n):
+  
+     
+def Trials(profileSize,n,resultText):
     result = 0.0
     for i in range(0,9):
         result += Trial(profileSize,n,i)
     result /= 9.0
-    resultText = "Profile size: " + str(profileSize) + " \t N: " + str(n) + " \t Result: " + str(result)
-    print(resultText)
-    f=open(str(profileSize) + "n" + str(n) + ".txt", "a+")
-    f.write(resultText)
-    f.close()  
+    resultText += "Profile size: " + str(profileSize) + " \t N: " + str(n) + " \t Result: " + str(result) +"\n"
+    return resultText
 
 def Experiment(profileSizes,ns):
+    resultText = ""
     for profileSize in profileSizes:
         for n in ns:
-            Trials(profileSize,n)
-
-profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
-ns = [1,2]
+            resultText = Trials(profileSize,n,resultText)
+    return resultText
 
 #profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
-#ns = [1,2,3,4,5,6,7,8,9,10]
-Experiment(profileSizes,ns)
+#ns = [1,2]
+
+profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
+ns = [1,2,3,4,5,6,7,8,9,10]
+
+f=open("results.txt", "a+")
+f.write(Experiment(profileSizes,ns)) 
+f.close() 
     
 
 """

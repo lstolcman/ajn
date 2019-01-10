@@ -1,1 +1,0 @@
-Profile size: 20 	 N: 1 	 Result: 0.3950617283950618Profile size: 20 	 N: 1 	 Result: 0.3950617283950618
