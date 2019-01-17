@@ -4,6 +4,8 @@ Created on Mon Jan  7 15:48:13 2019
 
 @author: kamron6
 """
+import os
+os.system('shutdown -s')
 
 def LoadText(author,article):  
     text = open("datasets\\" +  str(author) + "\\" + str(article) + ".txt", "r")
