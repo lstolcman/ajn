@@ -42,7 +42,7 @@ def FindFraqency(pair, profile):
             return ngram[1]
     return 0
 
-def ProfileDissimilarity(profile1, profile2):
+def ProfileDissimilarity1(profile1, profile2):
     suma = 0.0
     for key in profile1:
         f1 = profile1[key]
@@ -55,18 +55,83 @@ def ProfileDissimilarity(profile1, profile2):
         if key in profile1:
             continue
         else:
-            f2 = 0
-            suma += (2 * (f1 - f2) / (f1 + f2)) * (2 * (f1 - f2) / (f1 + f2))
+            suma += 4
     return suma
 
-def ChooseAuthor(profile,profiles,author):
+def ProfileDissimilarity2(profile1, profile2):
+    suma = 1.0
+    for key in profile1:
+        f1 = profile1[key]
+        f2 = 0.0
+        if key in profile2:
+            f2 = profile2[key]
+        suma *= (2 * (f1 - f2) / (f1 + f2)) * (2 * (f1 - f2) / (f1 + f2))
+    for key in profile2:
+        f1 = profile2[key]
+        if key in profile1:
+            continue
+        else:
+            suma *= 4
+    return suma
+
+def ProfileDissimilarity3(profile1, profile2):
+    suma = 0.0
+    for key in profile1:
+        if key in profile2:
+            suma -= 1
+    return suma
+
+def ProfileDissimilarity4(profile1, profile2):
+    suma = 0.0
+    for key in profile1:
+        f1 = profile1[key]
+        f2 = 0.0
+        if key in profile2:
+            f2 = profile2[key]
+        suma += (f1 - f2) * (f1 - f2) 
+    for key in profile2:
+        f1 = profile2[key]
+        if key in profile1:
+            continue
+        else:
+            suma += f1 * f1
+    return suma
+
+def ProfileDissimilarity5(profile1, profile2):
+    suma = 0.0
+    for key in profile1:
+        f1 = profile1[key]
+        f2 = 0.0
+        if key in profile2:
+            f2 = profile2[key]
+        suma += abs(f1 - f2) 
+    for key in profile2:
+        f1 = profile2[key]
+        if key in profile1:
+            continue
+        else:
+            suma += f1
+    return suma
+
+
+def ChooseAuthor(profile,profiles,author,mode):
     minValue = 0
     minIndex = -1
-    for i in range(0,len(profiles)):
-       pd =  ProfileDissimilarity(profile, profiles[i])
-       if (minIndex == -1 or pd < minValue):
-           minValue = pd
-           minIndex = i
+    for i in range(0,len(profiles)):  
+        pd = 0 
+        if (mode == 1):
+            pd = ProfileDissimilarity1(profile, profiles[i])
+        if (mode == 2):
+            pd = ProfileDissimilarity2(profile, profiles[i])
+        if (mode == 3):
+            pd = ProfileDissimilarity3(profile, profiles[i])
+        if (mode == 4):
+            pd = ProfileDissimilarity4(profile, profiles[i])
+        if (mode == 5):
+            pd = ProfileDissimilarity5(profile, profiles[i])
+        if (minIndex == -1 or pd < minValue):
+            minValue = pd
+            minIndex = i
     if (author == minIndex):
         return 1
     return 0
@@ -77,14 +142,14 @@ def ShowProfile(profile):
     for pair in profile:
         print(pair[0] + "   " + str(pair[1]))
   
-def Trial(profileSize,n,crossvalidation):
+def Trial(profileSize,n,crossvalidation,authorNumber,textNumber,mode):
     # Wczytaj teksty
     training = []
     test = []
     
-    for i in range(0,9):
+    for i in range(0,authorNumber):
         textSet = ""
-        for j in range(0,10):
+        for j in range(0,textNumber):
             if (j == crossvalidation):
                 test.append(LoadText(i + 1,j + 1))
             else:
@@ -93,136 +158,61 @@ def Trial(profileSize,n,crossvalidation):
         
     # Wyznacz profile tekstów
     trainingProfiles = []
-    for i in range(0,9):
+    for i in range(0,authorNumber):
         trainingProfiles.append(GetProfile(training[i],n,profileSize))
         
     testProfiles = []
-    for i in range(0,9):
+    for i in range(0,authorNumber):
         testProfiles.append(GetProfile(test[i],n,profileSize))
 
-    """
-    for profile in trainingProfiles:
-        ShowProfile(profile)
-    for profile in testProfiles:
-        ShowProfile(profile)
-    """ 
     testSize = 0
     positiveSum = 0
     
     for i in range(0,9):
             testSize += 1
-            positiveSum += ChooseAuthor(testProfiles[i],trainingProfiles,i)
+            positiveSum += ChooseAuthor(testProfiles[i],trainingProfiles,i,mode)
     return positiveSum / testSize
   
      
-def Trials(profileSize,n,resultText):
+def Trials(profileSize,n,resultText,authorNumber,textNumber,mode):
     result = 0.0
-    for i in range(0,9):
-        result += Trial(profileSize,n,i)
-    result /= 9.0
+    for i in range(0,authorNumber):
+        result += Trial(profileSize,n,i,authorNumber,textNumber,mode)
+    result /= authorNumber
     resultText += "Profile size: " + str(profileSize) + " \t N: " + str(n) + " \t Result: " + str(result) +"\n"
     return resultText
 
-def Experiment(profileSizes,ns):
+def Experiment(profileSizes,ns,authorNumber,textNumber,mode):
     resultText = ""
     for profileSize in profileSizes:
         for n in ns:
-            resultText = Trials(profileSize,n,resultText)
+            resultText = Trials(profileSize,n,resultText,authorNumber,textNumber,mode)
     return resultText
 
-#profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
+#profileSizes = [20,50]
 #ns = [1,2]
 
 profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
 ns = [1,2,3,4,5,6,7,8,9,10]
+authorNumber = 9
+textNumber = 10
 
-f=open("results.txt", "a+")
-f.write(Experiment(profileSizes,ns)) 
+f=open("results1.txt", "a+")
+f.write(Experiment(profileSizes,ns,authorNumber,textNumber,1)) 
 f.close() 
-    
 
-"""
-import numpy as np
-import nltk
-import glob
-import os
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.cluster import KMeans
-from scipy.cluster.vq import whiten
-sentence_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-word_tokenizer = nltk.tokenize.RegexpTokenizer(r'\w+')
- 
-# Load data
-data_folder = r"[path to chapters]"
-files = sorted(glob.glob(os.path.join(data_folder, "chapter*.txt")))
-chapters = []
-for fn in files:
-    with open(fn) as f:
-        chapters.append(f.read().replace('\n', ' '))
-all_text = ' '.join(chapters)
+f=open("results2.txt", "a+")
+f.write(Experiment(profileSizes,ns,authorNumber,textNumber,2)) 
+f.close() 
 
-# create feature vectors
-num_chapters = len(chapters)
-fvs_lexical = np.zeros((len(chapters), 3), np.float64)
-fvs_punct = np.zeros((len(chapters), 3), np.float64)
-for e, ch_text in enumerate(chapters):
-    # note: the nltk.word_tokenize includes punctuation
-    tokens = nltk.word_tokenize(ch_text.lower())
-    words = word_tokenizer.tokenize(ch_text.lower())
-    sentences = sentence_tokenizer.tokenize(ch_text)
-    vocab = set(words)
-    words_per_sentence = np.array([len(word_tokenizer.tokenize(s))
-                                   for s in sentences])
- 
-    # average number of words per sentence
-    fvs_lexical[e, 0] = words_per_sentence.mean()
-    # sentence length variation
-    fvs_lexical[e, 1] = words_per_sentence.std()
-    # Lexical diversity
-    fvs_lexical[e, 2] = len(vocab) / float(len(words))
- 
-    # Commas per sentence
-    fvs_punct[e, 0] = tokens.count(',') / float(len(sentences))
-    # Semicolons per sentence
-    fvs_punct[e, 1] = tokens.count(';') / float(len(sentences))
-    # Colons per sentence
-    fvs_punct[e, 2] = tokens.count(':') / float(len(sentences))
- 
-# apply whitening to decorrelate the features
-fvs_lexical = whiten(fvs_lexical)
-fvs_punct = whiten(fvs_punct)
+f=open("results3.txt", "a+")
+f.write(Experiment(profileSizes,ns,authorNumber,textNumber,3)) 
+f.close() 
 
-# get most common words in the whole book
-NUM_TOP_WORDS = 10
-all_tokens = nltk.word_tokenize(all_text)
-fdist = nltk.FreqDist(all_tokens)
-vocab = fdist.keys()[:NUM_TOP_WORDS]
- 
-# use sklearn to create the bag for words feature vector for each chapter
-vectorizer = CountVectorizer(vocabulary=vocab, tokenizer=nltk.word_tokenize)
-fvs_bow = vectorizer.fit_transform(chapters).toarray().astype(np.float64)
- 
-# normalise by dividing each row by its Euclidean norm
-fvs_bow /= np.c_[np.apply_along_axis(np.linalg.norm, 1, fvs_bow)]
+f=open("results4.txt", "a+")
+f.write(Experiment(profileSizes,ns,authorNumber,textNumber,4)) 
+f.close() 
 
-# get part of speech for each token in each chapter
-def token_to_pos(ch):
-    tokens = nltk.word_tokenize(ch)
-    return [p[1] for p in nltk.pos_tag(tokens)]
-chapters_pos = [token_to_pos(ch) for ch in chapters]
- 
-# count frequencies for common POS types
-pos_list = ['NN', 'NNP', 'DT', 'IN', 'JJ', 'NNS']
-fvs_syntax = np.array([[ch.count(pos) for pos in pos_list]
-                       for ch in chapters_pos]).astype(np.float64)
- 
-# normalise by dividing each row by number of tokens in the chapter
-fvs_syntax /= np.c_[np.array([len(ch) for ch in chapters_pos])]
-
-def PredictAuthors(fvs):
-    km = KMeans(n_clusters=2, init='k-means++', n_init=10, verbose=0)
-    km.fit(fvs)
- 
-    return km
-    
-"""
+f=open("results5.txt", "a+")
+f.write(Experiment(profileSizes,ns,authorNumber,textNumber,5)) 
+f.close() 
