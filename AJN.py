@@ -5,7 +5,6 @@ Created on Mon Jan  7 15:48:13 2019
 @author: kamron6
 """
 import os
-os.system('shutdown -s')
 
 def LoadText(author,article):  
     text = open("datasets\\" +  str(author) + "\\" + str(article) + ".txt", "r")
@@ -191,30 +190,33 @@ def Experiment(profileSizes,ns,authorNumber,textNumber,mode):
             resultText = Trials(profileSize,n,resultText,authorNumber,textNumber,mode)
     return resultText
 
-#profileSizes = [20,50]
-#ns = [1,2]
+profileSizes = [20,50]
+ns = [1,2]
 
-profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
-ns = [1,2,3,4,5,6,7,8,9,10]
+#profileSizes = [20,50,100,200,500,1000,1500,2000,3000,4000,5000]
+#ns = [1,2,3,4,5,6,7,8,9,10]
 authorNumber = 9
 textNumber = 10
 
-f=open("results1.txt", "a+")
+f=open("nresults1.txt", "a+")
 f.write(Experiment(profileSizes,ns,authorNumber,textNumber,1)) 
 f.close() 
 
-f=open("results2.txt", "a+")
+f=open("nresults2.txt", "a+")
 f.write(Experiment(profileSizes,ns,authorNumber,textNumber,2)) 
 f.close() 
 
-f=open("results3.txt", "a+")
+f=open("nresults3.txt", "a+")
 f.write(Experiment(profileSizes,ns,authorNumber,textNumber,3)) 
 f.close() 
 
-f=open("results4.txt", "a+")
+f=open("nresults4.txt", "a+")
 f.write(Experiment(profileSizes,ns,authorNumber,textNumber,4)) 
 f.close() 
 
-f=open("results5.txt", "a+")
+f=open("nresults5.txt", "a+")
 f.write(Experiment(profileSizes,ns,authorNumber,textNumber,5)) 
 f.close() 
+
+
+os.system('shutdown -s')
